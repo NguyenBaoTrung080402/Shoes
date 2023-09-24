@@ -1,0 +1,28 @@
+// {
+//   "compilerOptions": {
+//     "target": "es5",
+//     "module": "esnext",
+//     "baseUrl": "./",
+//     "moduleResolution": "node",
+//     "paths": {
+//       "@/*": [
+//         "src/*"
+//       ]
+//     },
+//     "lib": [
+//       "esnext",
+//       "dom",
+//       "dom.iterable",
+//       "scripthost"
+//     ],
+//     "allowJs": true,  // Allow JavaScript files
+//     "checkJs": true   // Check JavaScript files for errors
+//   },
+//   "include": [
+//     "src/**/*.js",    // Include JavaScript files
+//     "src/**/*.d.js"   // Include declaration files for JavaScript
+//   ],
+//   "exclude": [
+//     "node_modules"
+//   ]
+// }
